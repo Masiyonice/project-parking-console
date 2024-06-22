@@ -1,0 +1,14 @@
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\bin\Debug\net8.0\ParkingApp1.exe
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\bin\Debug\net8.0\ParkingApp1.deps.json
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\bin\Debug\net8.0\ParkingApp1.runtimeconfig.json
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\bin\Debug\net8.0\ParkingApp1.dll
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\bin\Debug\net8.0\ParkingApp1.pdb
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.AssemblyInfoInputs.cache
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.AssemblyInfo.cs
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.csproj.CoreCompileInputs.cache
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.dll
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\refint\ParkingApp1.dll
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.pdb
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ParkingApp1.genruntimeconfig.cache
+C:\Users\keceb\source\repos\ParkingApp1\ParkingApp1\obj\Debug\net8.0\ref\ParkingApp1.dll
